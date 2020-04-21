@@ -1,0 +1,10 @@
+name: JoinQuitMessage
+version: ${project.version}
+main: com.github.legendtomo.joinquitmessage.main
+api-version: 1.13
+
+commands:
+  joinquitmessage:
+    usage: /<command>
+    aliases: [jqm]
+
